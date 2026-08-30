@@ -26,3 +26,25 @@ nav a {
 nav a:hover {
   background: #f0f0f0;
 }
+
+.intro h1 {
+  font-size: 4rem;
+  line-height: 1;
+  margin-bottom: 0.25rem;
+}
+
+.intro h2 {
+  font-size: 1.4rem;
+  font-weight: normal;
+  margin-top: 0;
+  opacity: 0.65;
+}
+
+.intro {
+  margin: 4rem 0 3rem;
+}
+
+.intro p {
+  font-size: 1.05rem;
+  max-width: 700px;
+}
